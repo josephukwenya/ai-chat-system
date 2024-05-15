@@ -1,0 +1,17 @@
+{
+  "name": "ai-chatbot-system",
+  "version": "1.0.0",
+  "description": "AI Chatbot API",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "Joseph Ukwenya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
